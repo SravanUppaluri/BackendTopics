@@ -1,0 +1,17 @@
+{
+  "name": "backendtopics",
+  "version": "1.0.0",
+  "description": "Shocasing topics i have knowledge on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "express",
+    "node"
+  ],
+  "author": "Sravan",
+  "license": "ISC"
+}
